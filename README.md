@@ -55,7 +55,7 @@ _Add screenshots of each app here to showcase the UI._
 ---
 
 ## 🔧 Installation & Run Instructions
-
+building
 ### Flutter
 1. Install dependencies:
    ```bash
