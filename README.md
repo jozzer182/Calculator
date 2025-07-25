@@ -55,7 +55,7 @@ _Add screenshots of each app here to showcase the UI._
 ---
 
 ## 🔧 Installation & Run Instructions
-buil
+
 ### Flutter
 1. Install dependencies:
    ```bash
@@ -72,9 +72,18 @@ buil
 3. Run on an Android emulator or physical device.
 
 ### Swift (iOS)
-1. Open `swift_calculator.xcodeproj` in Xcode.
+1. Open `swift_calculator/calculator/calculator.xcodeproj` in Xcode.
 2. Select a simulator or connected device.
 3. Build and run (`Cmd + R`).
+
+#### Swift Calculator Features:
+- ✅ **Complete calculator functionality** with all basic operations
+- ✅ **SwiftUI-based interface** with modern iOS design
+- ✅ **Error handling** for division by zero and invalid operations
+- ✅ **Number formatting** with automatic decimal/integer display
+- ✅ **Sign toggle functionality** (±)
+- ✅ **Clear and Clear Entry** operations
+- ✅ **Responsive design** for all iPhone and iPad sizes
 
 ---
 
