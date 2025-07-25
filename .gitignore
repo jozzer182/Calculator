@@ -1,0 +1,89 @@
+
+# Flutter
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+android/.gradle/
+android/app/key.properties
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# Dart
+*.lock
+*.log
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build/
+captures/
+output.json
+
+# iOS
+DerivedData/
+Pods/
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+*.xcuserstate
+*.xcuserdata
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcodeproj/xcuserdata
+*.xcscmblueprint
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VSCode
+.vscode/
+.history/
+
+# Others
+*.swp
+*.swo
+*.tmp
+*.bak
