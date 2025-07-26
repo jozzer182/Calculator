@@ -50,7 +50,10 @@ cross-platform-calculator/
 
 ## 📸 Screenshots
 
-_Add screenshots of each app here to showcase the UI._
+### Flutter Calculator
+![Flutter Calculator Demo](calculator_flutter_gif.gif)
+
+_Add screenshots of Kotlin and Swift apps here to showcase the UI._
 
 ---
 
